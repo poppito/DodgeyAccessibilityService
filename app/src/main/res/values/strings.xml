@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DodgeyAccessibilityService</string>
+    <string name="accessibility_service_description">Dodgey Accessibility service</string>
+    <string name="accessibility_service_label">Dodgey Accessibility service</string>
+</resources>
